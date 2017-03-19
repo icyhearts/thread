@@ -8,5 +8,6 @@ int main()
 	}
 	double d1;// in master
 	float f2;// in test
+	char arr[13];// in test
 	return 0;
 }
