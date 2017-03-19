@@ -5,6 +5,7 @@ int main()
 	for(i1=0; i1<3; i1+){
 	i1+=2;	
 	}
+	double d1;// in master
 	float f2;// in test
 	return 0;
 }
