@@ -1,6 +1,7 @@
 #include<apue.h>
 int main()
 {
+	static int si1;// in master;
 	int i1=0;
 	for(i1=0; i1<3; i1+){
 	i1+=2;	
