@@ -1,5 +1,5 @@
 #include<apue.h>
-int main()
+int main(int argc, char *argv[])
 {
 	int i1=0;
 	for(i1=0; i1<3; i1+){
