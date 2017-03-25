@@ -8,5 +8,5 @@ int main()
 	}
 	double d1;// in master
 	float f2;// in test
-	return 0;
+	return 0;// comment return
 }
